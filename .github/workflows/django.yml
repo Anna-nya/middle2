@@ -24,4 +24,4 @@ jobs:
         SECRET_KEY: "pupupu"
         DEBUG: "True"
       run: |
-        python manage.py test'
+        python manage.py test
